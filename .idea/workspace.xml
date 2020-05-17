@@ -26,8 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="809aac9b-dc34-4b07-87fb-2fd2ba8acef1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/observer_comp.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/observer_comp.gemspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Changelog.md" beforeDir="false" afterPath="$PROJECT_DIR$/Changelog.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="306" />
+    <option name="myElementSize" value="359" />
   </component>
   <component name="ExportToHTMLSettings">
     <option name="OPEN_IN_BROWSER" value="true" />
@@ -129,7 +128,7 @@
       <workItem from="1589547822562" duration="36000" />
       <workItem from="1589547867081" duration="3371000" />
       <workItem from="1589555809950" duration="456000" />
-      <workItem from="1589739489045" duration="281000" />
+      <workItem from="1589739489045" duration="539000" />
     </task>
     <task id="LOCAL-00001" summary="Setup Complete&#10;&#10;Added version.rb. Added Gem Specification. Added README.md.">
       <created>1589549370155</created>
@@ -159,10 +158,17 @@
       <option name="project" value="LOCAL" />
       <updated>1589739718209</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Development Complete&#10;&#10;Separated runtime and development dependencies.">
+      <created>1589740051615</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589740051615</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers>
       <YouTrack url="https://macbook-pro.local:8443">
-        <option name="defaultSearch" value="project: Observer Subsystem:{No Subsystem} Component: Composition Sprints: 1 State: {Development}" />
+        <option name="defaultSearch" value="project: Observer Subsystem:{No Subsystem} Component: Composition Sprints: 1 State: {Prepare Deployment}" />
         <username>admin</username>
       </YouTrack>
     </servers>
@@ -188,17 +194,18 @@
     <MESSAGE value="Development Complete&#10;&#10;Added observer_comp.rb. Added file tests. Added node dependency." />
     <MESSAGE value="Prepare Deployment&#10;&#10;Deleted Travis CI deployment settings. Updated Changelog.md." />
     <MESSAGE value="Setup Complete&#10;&#10;Bumped Minor Version." />
-    <option name="LAST_COMMIT_MESSAGE" value="Setup Complete&#10;&#10;Bumped Minor Version." />
+    <MESSAGE value="Development Complete&#10;&#10;Separated runtime and development dependencies." />
+    <option name="LAST_COMMIT_MESSAGE" value="Development Complete&#10;&#10;Separated runtime and development dependencies." />
   </component>
   <component name="WindowStateProjectService">
     <state x="434" y="175" key="#Servers" timestamp="1589547653362">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="434" y="175" key="#Servers/0.23.1680.975@0.23.1680.975" timestamp="1589547653362" />
-    <state x="52" y="55" width="1534" height="891" key="CommitChangelistDialog2" timestamp="1589739717895">
+    <state x="52" y="55" width="1534" height="891" key="CommitChangelistDialog2" timestamp="1589740051358">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="52" y="55" width="1534" height="891" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1589739717895" />
+    <state x="52" y="55" width="1534" height="891" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1589740051358" />
     <state width="1545" height="270" key="GridCell.Tab.0.bottom" timestamp="1589739867718">
       <screen x="0" y="23" width="1680" height="975" />
     </state>

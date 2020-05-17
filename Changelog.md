@@ -1,5 +1,15 @@
 # Changelog
 
+## v0.2.0, 2020-05-17
+
+### Added
+
+### Edited
+
+- Separated the development and runtime dependencies.
+
+### Fixed
+
 ## v0.1.0, 2020-05-15
 
 ### Added
